@@ -33,7 +33,7 @@ Ensure you have the following installed:
    Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/your-username/digital-communication-system.git
+   git clone [https://github.com/PierreMCMarques/Digital-Communications-System]
    ```
 
 2. **Navigate to the Project Directory**
@@ -47,7 +47,7 @@ Ensure you have the following installed:
 Execute the simulator in Octave:
 
 ```octave
-octave simulator.m
+octave (name of final file).m
 ```
 
 ## Acknowledgments
