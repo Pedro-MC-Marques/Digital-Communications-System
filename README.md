@@ -33,7 +33,7 @@ Ensure you have the following installed:
    Clone this repository to your local machine using:
 
    ```bash
-   git clone [https://github.com/PierreMCMarques/Digital-Communications-System]
+   git clone [https://github.com/Pedro-MC-Marques/Digital-Communications-System]
    ```
 
 2. **Navigate to the Project Directory**
